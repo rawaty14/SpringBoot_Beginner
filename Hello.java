@@ -4,4 +4,10 @@ class Hello
     {
       System.out.println("Hello GIT");
      }
+    
+    public void run(){
+      
+      System.out.println("Hello Spring boot")'
+      
    }
+}
